@@ -16,7 +16,7 @@
 title: David Pitt
 description: I'm a machine learning engineer at Groundlight AI and a fourth-year student at Harvey Mudd College. I work on developing reliable uncertainty estimates in complex ML systems. Outside of my work, I like to go hiking and rock climbing. The banner photo for this site is from my favorite hike I've ever been on, Sahale Peak in the North Cascades mountain range.
 # baseurl: "/athena" # the subpath of your site, e.g. /blog
-url: "http://dhpitt.com" # the base hostname & protocol for your site
+url: dhpitt.github.io # the base hostname & protocol for your site
 #github_repo: athena # the GitHub repo name for your project
 github_username: dhpitt
 
