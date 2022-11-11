@@ -18,10 +18,10 @@ description: I'm a machine learning engineer at Groundlight AI and a fourth-year
 # baseurl: "/athena" # the subpath of your site, e.g. /blog
 url: "https://dhpitt.github.io" # the base hostname & protocol for your site
 baseurl: "" #nothing here
-#github_repo: athena # the GitHub repo name for your project
+github_repo: dhpitt.github.io # the GitHub repo name for your project
 github_username: dhpitt
 
-banner_img: assets/hd_stehekin.JPG
+banner_img: assets/dark_banner.JPG
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
@@ -34,3 +34,6 @@ theme_color: light
 
 # Build settings
 markdown: kramdown
+
+plugins: 
+  - jekyll-seo-tag
