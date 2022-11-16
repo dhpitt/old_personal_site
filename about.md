@@ -8,8 +8,7 @@ permalink: /about/
 <img src="../assets/hikingprofile.jpg" alt="david" height="500">
 </center>
 
-I'm currently working as a machine learning engineer at Groundlight AI, a super-cool startup in Seattle working on 
-solving hard problems in computer vision. Through my work, I came across literature on "robustness", the idea that 
+I just finished 6 months of work at Groundlight AI, a startup working on hard problems in computer vision. Through my work, I came across literature on "robustness", the idea that 
 machine learning systems often make decisions based on features that are more reflective of biases in training examples
 than of the real situation. 
 
